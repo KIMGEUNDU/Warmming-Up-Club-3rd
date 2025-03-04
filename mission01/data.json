@@ -1,0 +1,164 @@
+{
+  "menuItems": [
+    {
+      "id": 1,
+      "title": "팬케이크",
+      "price": "6,500",
+      "desc": "부드러운 팬케이크와 시럽, 버터가 함께 제공됩니다.",
+      "img": "https://i.pinimg.com/736x/9e/07/8e/9e078eba6c194522881dbe63df277481.jpg",
+      "category": "breakfast"
+    },
+    {
+      "id": 2,
+      "title": "계란 샌드위치",
+      "price": "5,000",
+      "desc": "스크램블 에그와 치즈가 들어간 맛있는 샌드위치입니다.",
+      "img": "https://i.pinimg.com/736x/20/8a/5f/208a5fb0bbaacdd29fa9d12a54fb0a22.jpg",
+      "category": "breakfast"
+    },
+    {
+      "id": 3,
+      "title": "그릴 치킨 샐러드",
+      "price": "12,000",
+      "desc": "그릴에 구운 치킨과 신선한 채소가 어우러진 샐러드입니다.",
+      "img": "https://i.pinimg.com/736x/72/d9/af/72d9af964d384fc2a16fd087c1062a7c.jpg",
+      "category": "lunch"
+    },
+    {
+      "id": 4,
+      "title": "스파게티 볼로네제",
+      "price": "16,000",
+      "desc": "진한 미트 소스가 얹어진 클래식한 이탈리아식 스파게티입니다.",
+      "img": "https://i.pinimg.com/736x/77/0b/7f/770b7f411bdc2293d648d430b187698d.jpg",
+      "category": "lunch"
+    },
+    {
+      "id": 5,
+      "title": "초콜릿 밀크셰이크",
+      "price": "5,000",
+      "desc": "초콜릿 아이스크림으로 만든 크리미한 밀크셰이크입니다.",
+      "img": "https://i.pinimg.com/736x/f3/b3/9e/f3b39e98919ba10337735fb83667cdfd.jpg",
+      "category": "shakes"
+    },
+    {
+      "id": 6,
+      "title": "딸기 밀크셰이크",
+      "price": "5,000",
+      "desc": "신선한 딸기로 만든 상큼한 밀크셰이크입니다.",
+      "img": "https://i.pinimg.com/736x/37/77/b5/3777b5e0735b76a9101799886ca8318e.jpg",
+      "category": "shakes"
+    },
+    {
+      "id": 7,
+      "title": "스테이크 디너",
+      "price": "25,000",
+      "desc": "육즙 가득한 스테이크와 매시드 포테이토, 찐 야채가 함께 제공됩니다.",
+      "img": "https://i.pinimg.com/736x/67/3b/4a/673b4a18698886fd89efd25e19dc108b.jpg",
+      "category": "dinner"
+    },
+    {
+      "id": 8,
+      "title": "연어 디너",
+      "price": "23,000",
+      "desc": "그릴에 구운 연어와 밥, 야채가 함께 제공됩니다.",
+      "img": "https://i.pinimg.com/736x/1b/aa/74/1baa743912fee8061b38a2081e4a1e28.jpg",
+      "category": "dinner"
+    },
+    {
+      "id": 9,
+      "title": "아보카도 토스트",
+      "price": "7,000",
+      "desc": "신선한 아보카도와 함께 제공되는 건강한 토스트입니다.",
+      "img": "https://i.pinimg.com/736x/9e/9b/a7/9e9ba78bfd5c333cbf7af32785197ade.jpg",
+      "category": "breakfast"
+    },
+    {
+      "id": 10,
+      "title": "햄버거",
+      "price": "8,000",
+      "desc": "두툼한 패티와 신선한 재료로 만든 클래식한 햄버거입니다.",
+      "img": "https://i.pinimg.com/736x/36/55/81/3655816eba02dc176bcc098b8690e652.jpg",
+      "category": "lunch"
+    },
+    {
+      "id": 11,
+      "title": "핫도그",
+      "price": "4,000",
+      "desc": "맛있는 소시지가 들어간 간편한 핫도그입니다.",
+      "img": "https://i.pinimg.com/736x/89/9b/2d/899b2d5a7b02faf30c3528a025261020.jpg",
+      "category": "lunch"
+    },
+    {
+      "id": 12,
+      "title": "바나나 밀크셰이크",
+      "price": "4,500",
+      "desc": "바나나와 아이스크림으로 만든 맛있는 밀크셰이크입니다.",
+      "img": "https://i.pinimg.com/736x/d7/bf/43/d7bf4312b3bcd4e7b7d398bfdab43aa8.jpg",
+      "category": "shakes"
+    },
+    {
+      "id": 13,
+      "title": "치즈 피자",
+      "price": "15,000",
+      "desc": "치즈가 풍부하게 올라간 클래식한 피자입니다.",
+      "img": "https://i.pinimg.com/736x/d7/17/cb/d717cba168701471dfdfc49dfd8d3948.jpg",
+      "category": "lunch"
+    },
+    {
+      "id": 14,
+      "title": "마르게리타 피자",
+      "price": "16,000",
+      "desc": "신선한 토마토와 바질로 만든 마르게리타 피자입니다.",
+      "img": "https://i.pinimg.com/736x/99/f1/d5/99f1d57ae8e4cf95b733790ecb204273.jpg",
+      "category": "lunch"
+    },
+    {
+      "id": 15,
+      "title": "치킨 윙",
+      "price": "10,000",
+      "desc": "바삭하게 튀겨낸 치킨 윙입니다.",
+      "img": "https://i.pinimg.com/736x/ca/f1/95/caf1956e62585ce77b834178663abe50.jpg",
+      "category": "dinner"
+    },
+    {
+      "id": 16,
+      "title": "고등어 구이",
+      "price": "12,000",
+      "desc": "간장으로 양념된 고등어를 구워낸 디너입니다.",
+      "img": "https://i.pinimg.com/736x/23/98/dc/2398dc2f80eeea4b8ddf69eb806d7859.jpg",
+      "category": "dinner"
+    },
+    {
+      "id": 17,
+      "title": "크림 파스타",
+      "price": "18,000",
+      "desc": "부드러운 크림 소스로 만든 파스타입니다.",
+      "img": "https://i.pinimg.com/736x/c1/39/f0/c139f04c3bfac7a3f1a0d7d7f80643a4.jpg",
+      "category": "lunch"
+    },
+    {
+      "id": 18,
+      "title": "미트볼 파스타",
+      "price": "17,000",
+      "desc": "진한 미트볼과 함께하는 맛있는 파스타입니다.",
+      "img": "https://i.pinimg.com/736x/ce/e8/3a/cee83aa91e08b0e9a10d1c41c8f8d22c.jpg",
+      "category": "lunch"
+    },
+    {
+      "id": 19,
+      "title": "오믈렛",
+      "price": "8,000",
+      "desc": "다채로운 재료로 속을 채운 부드러운 오믈렛입니다.",
+      "img": "https://i.pinimg.com/736x/b2/7d/cf/b27dcf0da21492f021f5b04072d15b3e.jpg",
+      "category": "breakfast"
+    },
+    {
+      "id": 20,
+      "title": "시푸드 플래터",
+      "price": "35,000",
+      "desc": "다양한 해산물과 함께 제공되는 해산물 플래터입니다.",
+      "img": "https://i.pinimg.com/736x/1c/57/dd/1c57dda6a6f6f8fd59ceacb64756f550.jpg",
+      "category": "dinner"
+    }
+  ]
+}
